@@ -1,1 +1,1 @@
-# stylify-app
+# pinsta-stylify-app
